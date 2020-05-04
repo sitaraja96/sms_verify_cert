@@ -27,19 +27,19 @@ node server.js
 To start the client 
 ```
 Change Directory to frontend-app
+```
 npm start
 ```
 Run ngrok application. Listen to port 8080
 ```
 ngrok http 8080
 ```
-
 Update the webhook url in your account settings under "inbound messages". it will look like this!
 ```
 https://3c0f9127.ngrok.io/webhooks/inbound-sms
 ```
 
-
+## Running the Application
 1) Enter your First name, last name and phone number (1st user) --- verify the user when popup appears.
 2) Register 2nd user as above
 3) Click let's chat
