@@ -43,6 +43,7 @@ https://3c0f9127.ngrok.io/webhooks/inbound-sms
 
 
 ## After starting the application
+
 1) Enter your First name, last name and phone number (1st user) --- verify the user when popup appears.
 2) Register 2nd user as above
 3) Click let's chat
