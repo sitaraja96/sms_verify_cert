@@ -4,7 +4,6 @@
 
 ## Usage
 
-```
 
 Install server and client dependencies by going to their root directories (backend , frontend-app folders).
 
