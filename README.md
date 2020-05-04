@@ -21,12 +21,10 @@ To start the server (runs on port 8080)
 ```
 Change Directory to backend
 node server.js
-
 ```
 To start the client 
 ```
 Change Directory to frontend-app
-```
 npm start
 ```
 Run ngrok application. Listen to port 8080
